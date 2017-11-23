@@ -1,8 +1,10 @@
 ## Simple static node server
+
 Install `` $ npm i``
+##
 Run `` $ npm start ``
 
-##Purpose
+## Purpose
 A simple server to serve HTML files
 
 ## How to use
